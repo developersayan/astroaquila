@@ -1,0 +1,4813 @@
+@media (min-width: 768px) and (max-width: 5000px) {
+    .nav_top .dropdown .dropdown-menu {
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -ms-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        transition: all 0.3s;
+        max-height: 0;
+        display: block;
+        opacity: 0;
+        visibility: hidden;
+        margin: 0px;
+        border: none;
+        border-bottom: 2px solid #ccc;
+        background: #fff !important;
+        width: 150px;
+        padding: 0px;
+        border-radius: 0;
+        left: 0;
+        right: inherit;
+        padding: 5px 8px 8px;
+        box-shadow: inherit;
+    }
+
+    .nav_top .dropdown:hover .dropdown-menu {
+        max-height: 300px;
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .pghed h1, .pghed h2, .pghed h3, .pghed h4, .pghed h5, .pghed h6 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .pghed p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+/*banner*/
+    .ban_pick {
+        width: 508px;
+        margin-right: -52px;
+    }
+
+    .banner_box > img {
+        height: 510px;
+    }
+
+    .bbn_tx strong {
+        font-size: 60px;
+    }
+
+    .bbn_tx li {
+        font-size: 28px;
+    }
+
+    .bbn_tx p {
+        font-size: 18px;
+    }
+
+    .punditBx h4 {
+        font-size: 32px;
+    }
+    .sort-select{ width: 129px;}
+
+
+    .ban_vedio{height: 510px;}
+}
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+
+    .container {
+        max-width: 1170px;
+    }
+
+    .pghed h1, .pghed h2, .pghed h3, .pghed h4, .pghed h5, .pghed h6 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .pghed p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+/*banner*/
+    .ban_pick {
+        width: 508px;
+        margin-right: -15px;
+    }
+
+    .banner_box > img {
+        height: 510px;
+    }
+
+    .bbn_tx strong {
+        font-size: 60px;
+    }
+
+    .bbn_tx li {
+        font-size: 28px;
+    }
+
+    .bbn_tx p {
+        font-size: 18px;
+    }
+
+/*Horoscope*/
+    .horoscope_bx strong {
+        font-size: 22px;
+        line-height: 23px;
+    }
+
+    .horoscope_bx em {
+        font-size: 15px;
+        margin-top: 7px;
+    }
+
+/*Talk with Astrologers*/
+    .take_astro_item h4 {
+        font-size: 17px;
+    }
+
+    .talk_dat li {
+        font-size: 13px;
+    }
+
+    .all-products .talk_dat li {
+        font-size: 16px;
+    }
+
+/*Buy Gem Stone*/
+    .gem-stone-text h5 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+/*Book Your Puja*/
+    .book_puja_img {
+        height: 232px;
+    }
+
+    .book_puja_text h6 {
+        font-size: 17px;
+    }
+
+/*pundit*/
+    .punditBx h4 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .punditBx .pag_btn {
+        font-size: 16px;
+    }
+
+/*Testimonials*/
+    .testimoni_text p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+/*footer*/
+    .foot_bx {
+        padding: 45px 0 34px;
+    }
+
+    .foot_bx li {
+        font-size: 14px;
+    }
+    .gem-stone-text li .pag_btn {
+    font-size: 14px;
+    height: 30px;
+    padding: 0 8px;
+}
+}
+
+@media (max-width: 1199px) {
+
+    .pghed h1, .pghed h2, .pghed h3, .pghed h4, .pghed h5, .pghed h6 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+
+    .pghed p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+/*header*/
+    .menu_sec li.actv:before {
+        display: none !important;
+    }
+
+    .menu_sec li.actv {
+        padding-left: 0;
+    }
+
+    .menu_sec li {
+        font-size: 14px;
+    }
+
+    .nav_top .dropdown .dropdown-menu li {
+        font-size: 14px;
+        padding: 5px 9px !important;
+    }
+
+/*banner*/
+    .ban_pick {
+        width: 450px;
+        margin-right: -10px;
+    }
+
+    .banner_box > img {
+        height: 510px;
+    }
+
+    .bbn_tx strong {
+        font-size: 47px;
+        line-height: 55px;
+    }
+
+    .bbn_tx li {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .bbn_tx p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-top: 10px;
+    }
+
+    .bbn_tx {
+        width: 485px;
+    }
+
+
+/*Horoscope*/
+    .horoscope_bx strong {
+        font-size: 22px;
+        line-height: 23px;
+    }
+
+    .horoscope_bx em {
+        font-size: 15px;
+        margin-top: 7px;
+    }
+
+    .horoscope_sec {
+        padding: 40px 0 50px;
+    }
+
+    .horoscope_iner .col-md-2 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+
+
+/*Talk with Astrologers*/
+    .take_astro_item h4 {
+        font-size: 17px;
+    }
+
+    .take_astro_item span img {
+        width: 100% !important;
+        height: 251px;
+        object-fit: cover;
+    }
+
+    .take_astro_iner .owl-carousel .owl-item img {
+        width: 100% !important;
+    }
+
+    .take_astro_sec {
+        padding: 50px 0 70px;
+    }
+
+    .take_astro_bg i {
+        width: 50%;
+    }
+
+/*Buy Gem Stone*/
+    .gem-stone-text h5 {
+        font-size: 16px;
+        line-height: 20px;
+        height: 40px;
+        overflow: hidden;
+    }
+
+/*Book Your Puja*/
+    .book_puja_img {
+        height: 232px;
+    }
+
+    .book_puja_text h6 {
+        font-size: 17px;
+    }
+
+    .book_puja_img img {
+        width: 100% !important;
+        height: 232px;
+        object-fit: cover;
+    }
+
+
+/*pundit*/
+    .punditBx h4 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .punditBx .pag_btn {
+        font-size: 16px;
+    }
+
+/*Videos & Blogs*/
+    .videos-post strong {
+        font-size: 14px;
+    }
+
+    .videos-post strong i img {
+        width: 20px;
+    }
+
+    .videos-post span {
+        font-size: 13px;
+    }
+
+    .videos-blog-text h5 {
+        font-size: 16px;
+        margin-top: 9px;
+    }
+
+/*Testimonials*/
+    .testimoni_text p {
+        font-size: 14px;
+        line-height: 23px;
+        margin-top: 14px;
+    }
+
+    .testimonials_bg i {
+        width: 50%;
+    }
+
+    .testimonials_sec {
+        padding: 60px 0 60px;
+    }
+
+    .testimoni_text strong {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+/*footer*/
+    .foot_bx {
+        padding: 45px 0 34px;
+    }
+
+    .foot_bx li {
+        font-size: 14px;
+    }
+    /*puja 07/04/2021*/
+    .astro_details {
+        flex-direction: column;
+        display: flex;
+    }
+
+    .shareBx {
+        text-align: left;
+        padding-top: 0px;
+    }
+
+    .nav_top .navbar-brand img {
+        width: 190px;
+    }
+
+    .pad-114 {
+        padding-top: 99px;
+    }
+
+    .astro_cc .talk_dat li {
+        font-size: 13px;
+        padding-left: 26px;
+        padding-right: 4px;
+    }
+
+    .astro_cc .talk_dat li:first-child {
+        padding-left: 25px;
+    }
+
+    .astro_cc .talk_dat li em {
+        margin-right: 5px;
+        left: 6px;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child {
+        padding-top: 4px;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child em {
+        left: -2px;
+        top: 2px;
+    }
+
+    .product-list-view {
+        margin-left: 0px;
+    }
+
+    .shareBx {
+        display: flex;
+        align-items: center;
+    }
+
+    .shareBx ul {
+        margin-top: 0;
+    }
+
+    .call_cha {
+        margin-top: 0 !important;
+        margin-left: 7px;
+        padding: 5px 7px;
+        font-size: 14px;
+    }
+
+    .call_cha img {
+        width: 10px;
+    }
+
+    .shareBx span {
+        padding-right: 10px;
+    }
+
+    .shareBx li {
+        margin-left: 0;
+    }
+
+    .about_astro h2, .customer_review_box h5, .edu_quliitem strong {
+        font-size: 18px;
+    }
+
+    .edu_quli, .edu_quliitem {
+        margin-top: 18px;
+    }
+
+    .ast_det_right_inr h6 {
+        font-size: 18px;
+    }
+
+    .review_right li {
+        margin-top: 1px;
+    }
+
+    .talk_now_fll .pag_btn {
+        font-size: 15px;
+    }
+
+    .pandits-puja span {
+        height: 251px;
+    }
+
+    .pandits-puja  span img {
+        width: 100% !important;
+        height: 251px;
+        object-fit: cover;
+    }
+
+    .pandit-text p {
+        font-size: 15px;
+    }
+
+    .pandit-text h4 a {
+        font-size: 20px;
+    }
+
+    .all-products .talk_dat li {
+        font-size: 14px;
+    }
+
+    .take_astro_text {
+        padding: 25px 8px 20px 8px;
+    }
+
+    .menu_sec li a {
+        padding: 0 10px;
+        padding-bottom: 10px;
+    }
+
+    .pandit-moreinfo ul li:first-child {
+        margin-right: 6px;
+    }
+
+    .pandit-moreinfo ul li p {
+        font-size: 13px;
+    }
+
+    .uplodimg label img {
+        margin-left: 0;
+    }
+
+    .bannersec {
+        padding-top: 99px;
+    }
+    .amunt{
+        font-size: 14px;
+    }
+    .cess {
+    padding: 10px 5px;
+}
+.amunt-detail{
+    font-size: 13px;
+}
+#product-image{
+    height: 350px;
+}
+
+.pro-descriptipn .pro-heading h1 {
+    font-size: 28px;
+    line-height: 29px;
+    margin-bottom:18px;
+}
+.off {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.product_price del, .product_price .price {
+    font-size: 23px;
+}
+
+.pro1-hr {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.pro-hr {
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+.des-info {
+    margin-bottom: 10px;
+}
+button.decrement-quantity, button.increment-quantity , .product-quantity input{
+    height: 45px;
+}
+.addcardbtn {
+    width: 150px;
+    height: 45px;
+    line-height: 30px;
+    font-size: 14px;
+    padding: 0;
+}
+.marb-20 {
+    margin-bottom: 30px;
+}
+.share-section .report-btn {
+
+    width: 150px;
+    height: 45px;
+    line-height: 26px;
+    font-size: 14px;
+}
+.share-btn p {
+    margin: 0;
+    font-size: 13px;
+    color: #666666;
+    padding-right: 7px;
+    line-height: 45px;
+}
+.share-btn ul li a {
+    line-height: 45px;
+}
+.item-description {
+    padding:15px 10px;
+}
+.new-quantity .product-quantity input, button.decrement-quantity, button.increment-quantity, button.decrement-quantity1, button.increment-quantity1 {
+    height: 36px;
+}
+.all-products .gem-stone-text p {
+    margin-top: 5px;
+    height: 40px;
+    overflow: hidden;
+}
+.all-products .gem-stone-text ul{
+    margin-top: 10px;
+}
+
+/*(puja 14/04/21)*/
+.about-img img {
+    width: 100%;
+}
+.about_sec{padding: 40px 0 50px;}
+.vision-sec .media {
+    padding: 20px;align-items: flex-start;
+}
+
+.vision-sec .media-body h4{
+    font-size: 25px;
+line-height: 30px;
+}
+.vision-sec .media-body p{
+line-height: 24px;
+margin-top: 5px;}
+
+/*contact page*/
+.contactSec{padding: 37px 0 56px;}
+.contactBx{padding: 8px 15px 24px;}
+.contactDetail{padding: 9px 20px 37px 20px;}
+.contactDetail .media-body em{font-size: 16px; line-height: 25px;}
+.contSoc h6{font-size: 20px;}
+.contactDetail .media{align-items: flex-start;}
+
+/*(16/042021)*/
+.blogleft, .blogright {
+    width: 100%;
+    padding: 0;
+}
+.blogleft-inr .col-sm-4 {
+    padding: 0 8px;
+}
+.blogleft-inr .row {
+    margin: 0 -8px;
+}
+.blogIner{margin: 0;}
+.blog-details-iner .shareBx li{margin-top: 0;}
+.blog-details-iner .astro_details{flex-direction: row; align-items: flex-start;}
+
+.blog-details .shareBx{top: -65px;}
+.blog-details .ast_det_left {
+    width: 100%;
+}
+.blog-details .videos-blog-img > img{height: 410px;}
+.blog_ban .shareBx{right: 15px;}
+
+.puja_det_pg .shareBx {
+    display: inherit;
+    align-items: inherit;
+}
+.puja_det_pg .astro_details{flex-direction: row;}
+button.decrement-quantity, button.increment-quantity, .product-quantity input {
+    height: 36px;
+}
+.puja-zip {
+    margin-left:0px;
+    margin-top: 0;
+}
+#zip_check_id {
+    margin-top: -14px;
+}
+.gem-stone-text li del{
+    margin-right: 0;
+}
+.gem-stone-text li {
+    font-size: 14px;
+}
+.gem-stone-text li .pag_btn {
+    font-size: 13px;
+    line-height: 34px;
+    padding: 0 6px;
+}
+.search-cat-produ .product_card {
+    min-height: 400px !important;
+}
+.astro-dash-form.new-astropuja .gem-stone-text h5{
+    height: auto;
+    overflow: inherit;
+ }
+
+.sort-select{ width: 117px;}
+.astro_bac_list li a{
+    font-size: 15px;
+    padding: 9px 4px;
+}
+.astro_bac_list li{
+    margin: 0 2px;
+}
+.astro_bac_list li a img {
+    margin-right: 5px;
+}
+}
+/*1199px*/
+
+
+
+
+@media (max-width: 992px) {
+
+    .container {
+        max-width: 970px;
+    }
+
+/*header*/
+    .menu_sec li.actv:before {
+        display: none !important;
+    }
+
+    .menu_sec li.actv {
+        padding-left: 0;
+    }
+
+    .nav_top .navbar-brand img {
+        width: 160px;
+    }
+
+    .menu_sec li {
+        font-size: 15px;
+    }
+
+    .details_left {
+        width: 100%;
+        padding: 0;
+    }
+
+    .ast_det_right {
+        width: 100%;
+        margin-top: 22px;
+        padding: 0;
+    }
+
+    .details_iner {
+        margin: 0;
+    }
+
+    .pad-114 {
+        padding-top: 91px;
+    }
+
+    .wid-40 {
+        width: 39%;
+    }
+
+    .wid-60 {
+        width: 57%;
+    }
+
+}
+/*992px*/
+
+@media only screen and (max-width: 991px) {
+    .nav_top .navbar-toggler {
+        border-color: #383e40;
+        background: #383e40;
+    }
+
+    .nav_top .navbar-toggler {
+        padding: 10px;
+        margin-right: 0;
+    }
+
+    .nav_top .navbar-toggler .icon-bar {
+        display: block;
+        width: 22px;
+        height: 2px;
+        border-radius: 1px;
+        background-color: #fff;
+    }
+
+    .nav_top .navbar-toggler .icon-bar + .icon-bar {
+        margin-top: 4px;
+    }
+
+    .navbar-toggler .icon-bar {
+        display: block;
+        width: 22px;
+        height: 2px;
+        border-radius: 1px;
+        background-color: #fff;
+    }
+
+    .navbar-toggler {
+        margin-right: 15px;
+    }
+
+    .navbar-toggler {
+        padding: 10px;
+    }
+
+    .nav_top .navbar-toggler {
+        border-color: #173a68;
+        background: #173a68;
+        margin: 15px 15px 15px 0;
+    }
+
+    .nav_top .navbar-toggler.showtoggle .icon-bar:nth-child(1) {
+        -ms-transform: matrix(1, -1, 0, 1, 0, 0);
+        transform: matrix(1, -1, 0, 1, 0, 0);
+        -webkit-transform: matrix(1, -1, 0, 1, 0, 0);
+        width: 25px;
+    }
+
+    .nav_top .navbar-toggler.showtoggle .icon-bar:nth-child(2) {
+        opacity: 0;
+        width: 0px;
+    }
+
+    .nav_top .navbar-toggler.showtoggle .icon-bar:nth-child(3) {
+        -ms-transform: matrix(1, 1, 0, 1, 0, 0);
+        transform: matrix(1, 1, 0, 1, 0, 0);
+        -webkit-transform: matrix(1, 1, 0, 1, 0, 0);
+        width: 25px;
+        margin-top: -11px;
+    }
+
+    .nav_top .navbar-toggler .icon-bar {
+        display: block;
+        width: 30px;
+        height: 2px;
+        border-radius: 3px;
+        background-color: #fff;
+        opacity: 1;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+        -moz-transition: all 0.5s ease-in-out;
+        -o-transition: all 0.5s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+        -ms-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
+    }
+
+    .nav_top .navbar-toggler {
+        width: 45px;
+        height: 40px;
+        text-align: center;
+        -moz-transition: all 0.5s ease-in-out;
+        -o-transition: all 0.5s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+        -ms-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
+        border-radius: 0px;
+        border: 0px solid transparent;
+        border-top-color: transparent;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+        position: relative;
+    }
+
+    .nav_top .navbar-toggler {
+        padding: 5px 8px;
+    }
+
+    .nav_top .navbar-toggler .icon-bar + .icon-bar {
+        margin-top: 8px;
+    }
+
+    .nav_top .navbar-toggler.showtoggle {
+        padding-left: 10px !important;
+    }
+
+    .header_sec .navbar-collapse {
+        position: absolute;
+        width: 100%;
+        background: #fff;
+        top: 100%;
+        left: 0;
+        z-index: 99;
+    }
+
+    .nav_top .navbar-toggler {
+        -webkit-outline: none !important;
+        -moz-outline: none !important;
+        outline: none !important;
+    }
+
+    .header_sec .container {
+        padding: 0;
+    }
+
+    .header_top {
+        padding: 0 15px;
+    }
+
+    .header_sec .navbar-brand {
+        margin-left: 15px !important;
+    }
+
+    .nav_top .navbar-toggler {
+        margin: 15px 28px 15px 0 !important;
+        background: #fbbc93 !important;
+    }
+
+    .menu_sec li a::before {
+        left: 0;
+        transform: translateX(0);
+    }
+
+    .menu_sec li a {
+        padding-left: 0;
+        padding-right: 0;
+        width: 100%;
+    }
+
+    .menu_sec {
+        padding: 10px 15px;
+    }
+
+    .nav_top .dropdown-toggle::after {
+        background: url(../images/drparw1.png)no-repeat !important;
+        display: block !important;
+        bottom: inherit;
+        top: 4px !important;
+        left: inherit;
+        right: 0;
+        width: 8px;
+        height: 8px;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+    .header_botom {
+        padding: 0;
+    }
+
+    .bannersec {
+        padding-top: 100px;
+    }
+
+    .nav_top .dropdown .dropdown-menu {
+        padding: 0 !important;
+        width: 95% !important;
+        background: #fbd4c5;
+        margin-bottom: 10px;
+    }
+
+/*banner*/
+
+    .bannersec .carousel-control-prev, .bannersec .carousel-control-next {
+        width: 60px !important;
+        height: 7px !important;
+    }
+
+    .ban_pick {
+        width: 383px;
+    }
+
+    .take_astro_iner .owl-prev, .take_astro_iner .owl-next,
+.book_puja .owl-prev, .book_puja .owl-next,
+
+
+
+/*Talk with Astrologers*/
+    .take_astro_sec {
+        padding: 40px 0 54px;
+    }
+
+/*Buy Gem Stone*/
+    .gem-stone-sec {
+        padding: 40px 0;
+    }
+
+    .gem-stone-text {
+        margin-top: 10px;
+    }
+
+    .gem-stone-sec .owl-prev {
+        left: -10px;
+    }
+
+    .gem-stone-sec .owl-next {
+        right: -10px;
+    }
+
+	.take_astro_sec .owl-prev {
+        left: -10px;
+    }
+
+    .take_astro_sec .owl-next {
+        right: -10px;
+    }
+
+	.book_puja .owl-prev {
+        left: -10px;
+    }
+
+    .book_puja .owl-next {
+        right: -10px;
+    }
+	.testimonials_sec .owl-prev {
+        left: -10px;
+    }
+
+    .testimonials_sec .owl-next {
+        right: -10px;
+    }
+
+/*Videos & Blogs*/
+    .videos-blog-sec {
+        padding: 50px 0 35px;
+    }
+
+    .videos-blog-sec .gem_ston_btn .pag_btn {
+        margin-top: 26px;
+        padding: 0 13px;
+        height: 36px;
+        line-height: 36px;
+    }
+
+
+/*footer*/
+    .foot_top .col-md-4:first-child {
+        -ms-flex: 0 0 100% !important;
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+
+    .foot_top .col-md-4 {
+        -ms-flex: 0 0 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+    }
+
+    .foot_top .col-md-4:nth-child(2) {
+        border-left: 0;
+    }
+
+    .foot_top .col-md-4:last-child .foot_bx {
+        padding-left: 30px;
+    }
+
+    .foot_botom_iner li {
+        font-size: 14px;
+    }
+
+    .menu_sec li a:after {
+        left: 23px;
+        bottom: 5px;
+    }
+
+    .mobile-list {
+        display: block;
+        margin-bottom: 15px;
+        z-index: 20;
+        width: 25%;
+        position: absolute;
+        top: 10px;
+        z-index: 1;
+        font-size: 16px;
+        height: 38px;
+        border-radius: 2px;
+        line-height: 26px;
+    }
+
+    .search-filter {
+        width: calc(100% - 30px);
+        padding-top: 0;
+        border-right: none;
+        display: none;
+        position: absolute;
+        z-index: 9;
+        background: #fff;
+        top: 59px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 0 10px 10px 10px;
+    }
+
+    .top-total h5 {
+        display: none;
+    }
+
+    .product-list-view {
+        margin-left: 0px;
+    }
+
+    .hed-fil {
+        display: none;
+    }
+
+    .pad-114 {
+        padding-top: 102px;
+    }
+
+    .all-products .talk_dat li {
+        font-size: 15px;
+        padding-left: 27px;
+    }
+
+    .all-products .talk_dat li:first-child {
+        padding-left: 20px;
+    }
+
+    .all-products .take_astro_item .talk_dat li:first-child em {
+        top: -1px;
+        left: 2px;
+    }
+
+    .all-products .take_astro_item .talk_dat li em {
+        top: -1px;
+        left: 6px;
+    }
+
+    .all-products .take_astro_text {
+        padding: 28px 10px 20px 10px;
+    }
+
+    .foot_bx {
+        padding: 0px 0 34px;
+    }
+
+    .horoscope_bx span img {
+        width: 64px;
+    }
+
+    .horoscope_bx {
+        padding: 12px 8px;
+    }
+
+    .horoscope_bx strong {
+        font-size: 18px;
+        line-height: 21px;
+    }
+
+    .horoscope_bx em {
+        font-size: 14px;
+        margin-top: 0;
+    }
+
+    .horoscope_sec {
+        padding: 30px 0 30px;
+    }
+
+    .astro_cc .take_astro_sec {
+        padding: 28px 0 40px;
+    }
+
+    .gem-stone-sec {
+        padding: 30px 0;
+    }
+
+    .gem-stone-item span img {
+        width: 159px !important;
+    }
+
+    .gem-stone-item span {
+        height: 151px;
+    }
+
+    .gem-stone-item {
+        min-height: 297px !important;
+    }
+
+    .videos-blog-img > img {
+        height: 200px;
+    }
+
+    .videos-blog-item {
+        min-height: 416px;
+    }
+
+    .testimonials_sec {
+        padding: 30px 0 30px;
+    }
+
+    .pandits-puja span {
+        height: 251px;
+    }
+
+    .pandits-puja span img {
+        width: 100% !important;
+        height: 251px;
+        object-fit: cover;
+    }
+
+    .pandit-text h4 a {
+        font-size: 20px;
+    }
+
+    .pandit-text p {
+        font-size: 15px;
+        line-height: 18px;
+        padding-top: 5px;
+    }
+
+    .pandit-moreinfo ul li:first-child {
+        margin-right: 7px;
+    }
+
+    .pandit-moreinfo ul li p {
+        font-size: 13px;
+    }
+
+    .mobile_filter {
+        display: block;
+    }
+
+    .left-profle {
+        display: none;
+    }
+
+    .profilbox , .dash-pro-sec{
+        width: 40%;
+        float: left;
+        padding: 10px 15px;
+    }
+
+    .cusdasbordlink , .dash-pro-list{
+        width: 60%;
+        float: right;
+        border-left: 1px solid #ccc;
+    }
+    .dash-pro-sec {
+    background: transparent;
+}
+.dash-pro-list {
+    margin-top: 0;
+}
+    .profilbox em {
+        width: 125px;
+        height: 125px;
+    }
+
+    .cusdasbordlink li a {
+        padding: 7px 15px;
+    }
+
+    .profilbox {
+        border-bottom: none;
+    }
+
+    .left-profle {
+        padding: 0;
+    }
+
+    .cusdashb-left {
+        margin-top: 10px;
+    }
+
+    .cus-rightbody {
+        margin-top: 20px;
+        padding: 10px 15px;
+    }
+
+    .uplodimg label img {
+        margin-left: 0;
+    }
+
+    .uplodimgfil {
+        width: 31%;
+    }
+
+    .form_box_area {
+        margin-bottom: 0;
+    }
+
+    .checkBox.new-cus ul li:first-child , .new-cus ul li {
+        padding-left: 10px;
+    }
+
+    .signup-img {
+        width: calc(100% - 75px);
+        margin-bottom: 7px;
+    }
+
+    .dash-pro-sec span {
+        font-size: 16px;
+    }
+
+    .astro_bac_list li a {
+        font-size: 15px;
+        padding: 9px 6px 9px;
+    }
+
+    .astro_bac_list li {
+        display: inline-block;
+        margin: 0 2px;
+    }
+
+    .astro_bac_list li a img {
+        width: 16px;
+        margin-right: 7px;
+    }
+
+    .dashboard_left {
+        width: 100%;
+    }
+
+    .astro-dash-pro-right {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .dashboard_sec {
+        padding-bottom: 80px;
+    }
+
+    .dashboard_iner {
+        margin: 0;
+    }
+
+    .dashboard_left, .astro-dash-pro-right {
+        padding: 0;
+    }
+
+    .mobile_filter_as {
+        display: block;
+    }
+
+    .dashboard_left_inr {
+        display: none;
+    }
+
+    .dashboard_left_inr {
+        float: left;
+        box-shadow: none;
+    }
+
+    .after_login_ban {
+        padding: 10px 15px;
+        padding-left: 0;
+    }
+    .amnt-tble {
+        display: none !important;
+    }
+    .small_screen2 {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #eeeeee;
+    float: left;
+    margin: 1% !important;
+    overflow: hidden;
+    padding: 0;
+    width: 48% !important;
+    margin-bottom: 15px !important;
+}
+.cell {
+    display: block ;
+    padding: 6px 8px;
+}
+.amunt-detail {
+    border-bottom: none;
+    font-size: 14px;
+    overflow: inherit;
+    padding: 10px 8px 5px;
+}
+.table-cus .row {
+    display: table-row;
+    position: relative;
+    overflow: inherit;
+}
+.amunt-detail {
+    text-align: left;
+    display: flex;
+}
+.hide_big {
+    display: block;
+    float: left;
+    margin: 0;
+    width: 30%;
+}
+.table-actions a i {
+    padding-right: 10px;
+}
+.foot_top{
+    margin-top: 20px;
+}
+
+#product-image {
+    width: 76%;
+    height: 270px;
+    margin-left: .5rem;
+    margin-bottom: 15px;
+    }
+
+    .pro-descriptipn .pro-heading h1 {
+    font-size: 25px;
+    line-height: 29px;
+    margin-bottom:8px;
+}
+.off {
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+.product_price del, .product_price .price {
+    font-size: 20px;
+}
+.color-sec h6 {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.pro1-hr {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.pro-hr {
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.des-info {
+    margin-bottom: 0;
+}
+button.decrement-quantity, button.increment-quantity , .product-quantity input{
+    height: 35px;
+}
+.addcardbtn {
+    width: 133px;
+    height: 35px;
+    line-height: 30px;
+    font-size: 12px;
+    padding: 0;
+}
+.marb-20 {
+    margin-bottom: 15px;
+}
+.share-section .report-btn {
+
+    width: 128px;
+    height: 35px;
+    line-height: 26px;
+    font-size: 12px;
+}
+.share-btn p {
+    margin: 0;
+    font-size: 13px;
+    color: #666666;
+    padding-right: 7px;
+    line-height: 35px;
+}
+.share-btn ul li a {
+    line-height: 35px;
+}
+.item-description {
+    padding:15px 10px;
+}
+span.hide_big.font0{
+    display: none !important;
+}
+.new-quantity .product-quantity input, button.decrement-quantity, button.increment-quantity, button.decrement-quantity1, button.increment-quantity1 {
+    height: 36px;
+}
+.cart-btn-sec {
+    float: right;
+    margin: 10px 0 35px 0;
+}
+.cart-price-box{
+    margin-top: -22px;
+}
+.new-tabc .cess:first-child {
+    padding-left: 5px;
+}
+.punditSec .col-md-4 {
+    padding: 20px 0;
+    }
+.banner_box > img {
+    height: 400px;
+}
+.all-products .gem-stone-text p {
+    margin-top: 5px;
+}
+.all-products .gem-stone-item {
+    min-height: auto;
+}
+.all-products .gem-stone-text li .pag_btn {
+    line-height: 30px;
+    height: 30px;
+    padding: 0 10px;
+}
+.all-products .new_ston {
+    font-size: 13px;
+    padding: 1px 12px;
+    top: 12px;
+}
+.shipping-add {
+    padding: 10px;
+}
+.shipping-body p {
+    padding-top: 5px;
+}
+.shipping-body {
+    margin: 10px 0 0 0;
+    padding: 12px 15px;
+}
+.custom-hr {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.gem-stone-sec .owl-prev {
+    left: -10px !important;
+}
+.gem-stone-sec .owl-next {
+    right: -10px !important;
+}
+.take_astro_sec .owl-prev {
+        left: -10px !important;
+    }
+
+    .take_astro_sec .owl-next {
+        right: -10px !important;
+    }
+
+	.book_puja .owl-prev {
+        left: -10px !important;
+    }
+
+    .book_puja .owl-next {
+        right: -10px !important;
+    }
+	.testimonials_sec .owl-prev {
+        left: -10px !important;
+    }
+
+    .testimonials_sec .owl-next {
+        right: -10px !important;
+    }
+.sort-select{text-overflow: ellipsis !important;}
+
+/*contact page*/
+.contactSec{padding: 37px 0 56px;}
+.contactBx{padding: 8px 15px 24px;}
+.contactDetail{padding: 9px 20px 37px 20px; margin-top: 15px;}
+.contactDetail .media-body em{font-size: 15px; line-height: 25px;}
+.contSoc h6{font-size: 17px;}
+.contSoc{padding-top: 30px;}
+.contactDetail .media-body h5{font-size: 15px;}
+.contSoc li{padding-right: 6px;}
+.contactBx, .contactDetail {min-height: auto;}
+
+.blogSec .videos-post {
+    flex-direction: column;
+}
+
+
+.puja_or_pg .cus-rightbody{margin:0 !important; padding: 0 !important;}
+.puja_or_pg .u_ran{margin-top: 0;}
+.puja_or_pg .astro-dash-pro-right h1 {
+    padding-bottom: 8px !important;
+    font-size: 18px;
+}
+.puja_or_pg .u_ran ul li{font-size: 14px;}
+
+.puja_det_pg .astro_details {
+    flex-direction: column;
+}
+.puja_det_pg .shareBx {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: flex-end;
+}
+button.decrement-quantity, button.increment-quantity, .product-quantity input {
+    height: 36px;
+}
+.pro-descriptipn .color-sec {
+    margin-right: 0 !important;
+}
+.astroflex {
+    display: block;
+}
+.astro_details.noflex{
+    position: relative;
+    padding-bottom: 35px
+}
+.astro_details.noflex .checkBox li {
+    width: auto;
+    margin-right: 7px;
+    float: left;
+}
+
+#zip_check_id{
+    margin-bottom: 0px;
+}
+.puja-zip {
+    margin-top: 0px;
+}
+#zip_check_id {
+    margin-top: 20px;
+}
+.search-cat-produ .product_card {
+    min-height: 315px !important;
+}
+.angle {
+    position: absolute;
+    top: 17%;
+    left: -23px;
+    /* bottom: 0; */
+    right: auto;
+    transform: rotate(-90deg);
+}
+.angle img{
+    width: 33px;
+}
+.show-actions {
+    display: none;
+    position: absolute;
+    z-index: 99;
+    background: #fff;
+    top: -4px;
+    right: auto;
+    left: 146px;
+    width: 155px;
+    border-radius: 8px;
+    border: 1px solid #dddcdc;
+    padding: 8px 0;
+}
+.show-actions ul li a {
+    padding: 3px 10px;
+    font-size: 14px;
+}
+.astro-dash-form.new-astropuja .item{
+    width: 30%;
+    margin-right: 3%;
+    float: left;
+}
+.ast_det_left .media em {
+    width: 177px;
+    height: 199px;
+    margin-bottom: 21px;
+    }
+    .astro_details.noflex .shareBx {
+    position: absolute;
+    top: 0;
+    margin-right: 25px;
+    right: 0;
+}
+.details_sec.puja_det_pg.new-all-details .shareBx {
+    position: absolute;
+    right: 0;
+}
+
+/*09/03/21(puja)*/
+.homam_cc .checkBox {
+    margin-top: 0px;
+    display: flex;
+align-items: flex-start;
+flex-direction: column;
+}
+.homam_cc .checkBox span {
+    width: 100%;
+}
+.puja_det_pg .shareBx ul {
+    margin-top: 10px;
+}
+
+video {
+    width: 100%;
+}
+.color-sec.new-je.checkBox ul.image-radio1 {
+    width: 55%;
+    column-count: 2;
+}
+.color-sec.new-je.checkBox ul.image-radio1 li {
+    float: unset;
+    width: 43%;
+}
+ /*9october*/
+ .sort-select {
+    width: 142px;
+ }
+ .sort-filter p {
+    font-size: 13px !important;
+}
+
+/*--01.11**/
+.details-captions h1 {
+    font-size: 21px;
+    margin-bottom: 20px;
+}
+.details-captions h1:before{
+    height: 2px;
+}
+.details-captions p{
+    font-size: 13.6px;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+
+.details-banner-tabs h2{
+    font-size: 16px;
+}
+.details-banner-tabs p , .details-banners .card-body{
+    font-size: 13px;
+    line-height: 19px;
+}
+.details-banners .card-header a{
+    white-space: inherit;
+    font-size: 13.7px;
+    padding-bottom: 7px;
+    margin-bottom: 10px;
+}
+.wrap-details-list ul li {
+    width: 33.33%;
+    }
+    .cayegoies_uls li{
+    width: calc(25% - 20px);
+    margin: 15px 10px;
+}
+.lists_li a{
+    font-size: 16px;
+}
+.lists_li p{
+    font-size: 12.5px;
+}
+.pad-terms{
+    padding: 120px 0 35px
+}
+
+.ban_vedio{height: auto;}
+.details-inner{    background: #eee;}
+
+
+
+.mobile-list {
+    width: 100% !important;
+    position: relative;
+    top: 10px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.search-filter {
+    top: 48px;
+}
+}
+
+/* 991px*/
+
+@media (max-width: 880px) {
+
+    .ban_pick {
+        width: 369px;
+    }
+
+    .bbn_tx {
+        width: 353px;
+    }
+
+    .bbn_tx strong {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .bbn_tx li {
+        font-size: 16px;
+        line-height: 26px;
+        padding-left: 15px;
+        padding-right: 4px;
+    }
+
+    .bbn_tx p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-top: 7px;
+    }
+
+    .pag_btn {
+        height: 39px;
+        line-height: 39px;
+        margin-top: 23px;
+        padding: 0 15px;
+        font-size: 14px;
+    }
+
+/*pundit*/
+    .punditBx h4 {
+        font-size: 22px;
+        line-height:22px;
+    }
+
+    .punditBx .pag_btn {
+        font-size: 12px;
+        margin-top: 28px;
+        height: 34px;
+        line-height: 34px;
+    }
+
+
+/*Videos & Blogs*/
+    .videos-blog-iner .col-md-4 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .videos-blog-item {
+        margin-top: 15px;
+    }
+
+#product-image {
+    height: 250px;
+    margin-left: .5rem;
+    margin-bottom: 20px;
+    }
+
+    .pro-descriptipn .pro-heading h1 {
+    font-size: 25px;
+    line-height: 29px;
+    margin-bottom:5px;
+}
+.off {
+    font-size: 12px;
+    margin-bottom: 2px;
+}
+.product_price del, .product_price .price {
+    font-size: 18px;
+}
+.color-sec h6 {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.pro1-hr {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.pro-hr {
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.des-info {
+    margin-bottom: 0;
+}
+button.decrement-quantity, button.increment-quantity , .product-quantity input{
+    height: 30px;
+}
+.addcardbtn {
+    width: 133px;
+    height: 31px;
+    line-height: 30px;
+    font-size: 12px;
+    padding: 0;
+}
+.marb-20 {
+    margin-bottom: 10px;
+}
+.share-section .report-btn {
+
+    width: 128px;
+    height: 30px;
+    line-height: 26px;
+    font-size: 12px;
+}
+.share-btn p {
+    margin: 0;
+    font-size: 13px;
+    color: #666666;
+    padding-right: 7px;
+    line-height: 30px;
+}
+.share-btn ul li a {
+    line-height: 30px;
+}
+.item-description {
+    padding:15px 10px;
+}
+.item-description h2 {
+    font-size: 19px;
+    margin-bottom: 6px;
+}
+.item-description p , .item-description .moreless-button{
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 6px;
+}
+
+
+/*(puja 14/04/21)*/
+
+.vision-sec .col-sm-6{
+flex: 0 0 100%;
+max-width: 100%;}
+
+.vision-sec .media{margin-top: 20px;}
+
+}
+
+/*880*/
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+    .share-btn ul li img{
+        width: 20px;
+        margin-right: 4px;
+    }
+        .ban_pick img {
+    -webkit-animation: rotation 10s infinite linear;
+    max-width: 68%;
+    float: right;
+}
+
+}
+
+@media only screen and (max-width: 767px) {
+
+
+    .container {
+        max-width: 100%;
+    }
+
+    .header_sec .container {
+        padding: 0;
+    }
+
+    .header_sec .navbar-brand {
+        margin-left: 15px;
+    }
+
+    .header_sec .navbar-collapse {
+        position: absolute;
+        width: 100%;
+        background: #fff;
+        top: 100%;
+        left: 0;
+        z-index: 99;
+    }
+
+    .mo_view {
+        display: block;
+    }
+
+    .hedTopBtn {
+        display: none;
+    }
+
+    .menu_sec li a::before {
+        left: 0;
+        transform: translateX(0);
+    }
+
+    .menu_sec li a {
+        padding-left: 0;
+        padding-right: 0;
+        width: 100%;
+    }
+
+    .menu_sec {
+        padding: 10px 15px;
+    }
+
+    .nav_top .navbar-toggler {
+        margin: 15px 15px 15px 0 !important;
+    }
+
+    .pghed p br {
+        display: none;
+    }
+
+    .pghed h1, .pghed h2, .pghed h3, .pghed h4, .pghed h5, .pghed h6 {
+        font-size: 29px;
+        line-height: 42px;
+    }
+
+    .pghed p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-top: 5px;
+    }
+
+    .ban_pick_bx:before {
+        position: absolute;
+        left: 0;
+        top: 0;
+        background: rgba(0, 0, 0, 0.70);
+        width: 100%;
+        height: 100%;
+        content: "";
+    }
+
+    .ban_pick_bx, .banner_box > img {
+        height: 402px;
+    }
+
+    .carousel-control_bx {
+        text-align: left;
+    }
+
+    .bbn_tx strong {
+        font-size: 30px;
+        line-height: 44px;
+    }
+
+    .bbn_tx li {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .ban_pick {
+        margin-top: 110px;
+    }
+
+    .horoscope_iner .col-md-2 {
+        flex: 0 0 33.33333%;
+        max-width: 33.33333%;
+    }
+
+    .take_astro_sec {
+        padding: 24px 0 35px;
+    }
+
+    .punditSec .col-md-4 {
+        padding: 22px 0;
+    }
+
+
+
+/*footer*/
+    .foot_top .col-md-4:first-child {
+        -ms-flex: 0 0 100% !important;
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+
+    .foot_top .col-md-4 {
+        -ms-flex: 0 0 100% !important;
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+
+    .foot_top .col-md-4 {
+        border-left: 0;
+    }
+
+    .foot_top .col-md-4:last-child .foot_bx {
+        padding-left: 0px;
+    }
+
+    .foot_botom_iner li {
+        font-size: 14px;
+    }
+
+    .foot_botom_iner {
+        flex-direction: column;
+        padding: 12px 0;
+        text-align: center;
+    }
+
+    .foot_bot_ri {
+        margin-top: 10px;
+    }
+
+    .foot_bx {
+        padding: 24px 0 0;
+    }
+
+    .foot_top {
+        padding-bottom: 20px;
+    }
+
+    .main-center-div {
+        padding: 40px;
+    }
+
+    .login-from-area h2 {
+        font-size: 20px;
+    }
+
+    .login-from-area p {
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: 20px;
+    }
+
+    .login-type {
+        height: 45px;
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    .forgot-passwords {
+        font-size: 15px;
+    }
+
+    .login-submit {
+        font-size: 18px;
+        font-weight: 500;
+        height: 42px;
+    }
+
+    .bottom-account-div {
+        padding-top: 20px;
+    }
+
+    .logfoot {
+        margin-top: 0px;
+        margin-bottom: 25px;
+    }
+
+    .logfoot li a {
+        font-size: 15px;
+    }
+
+    .logfoot li {
+        padding-left: 10px;
+    }
+
+    ::placeholder {
+        font-size: 14px;
+    }
+
+    .details_sec {
+        padding: 25px 0 40px;
+    }
+
+    .ast_det_left .media-body h4 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .ast_det_left .media em {
+        width: 114px;
+        height: 126px;
+    }
+
+    .ast_det_left .media-body p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .about_astro h2 {
+        font-size: 21px;
+    }
+
+    .edu_quliitem strong {
+        font-size: 18px;
+    }
+
+    .edu_quliitem span {
+        font-size: 14px;
+    }
+
+    .customer_review_box h5 {
+        font-size: 20px;
+    }
+
+    .review_per_item .media-body h2 {
+        font-size: 16px;
+    }
+
+    .ast_det_right_inr h6 {
+        font-size: 18px;
+    }
+
+    .ast_time strong {
+        font-size: 18px;
+    }
+
+    .inner-headings h3 {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+
+    .take_astro_item h4 {
+        font-size: 18px;
+    }
+
+    .talk_dat li {
+        font-size: 16px;
+    }
+
+    .take_astro_text {
+        padding: 20px 10px 16px 16px;
+    }
+
+    .sort-filter p {
+        font-size: 16px;
+    }
+
+    .mobile-list {
+        width: 30%;
+    }
+
+    .talk_dat li {
+        font-size: 17px;
+        line-height: 23px;
+        padding-right: 8px;
+        padding-left: 36px;
+    }
+
+    .talk_dat li em {
+        left: 12px;
+    }
+
+    .search-bred {
+        padding: 15px 0;
+    }
+
+    .new_ston {
+        top: 0;
+    }
+
+    .gem-stone-item span {
+        height: 103px;
+    }
+
+    .gem-stone-item span img {
+        width: 100px !important;
+    }
+
+    .gem-stone-text h5 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .gem-stone-text {
+        margin-top: 4px;
+    }
+
+    .gem-stone-item {
+        min-height: 256px;
+    }
+
+    .gem-stone-sec .owl-item {
+        padding: 10px 9px;
+    }
+
+    .gem-stone-iner {
+        margin-top: 15px;
+    }
+
+    .book_puja_img {
+        height: 194px;
+    }
+
+    .gem_ston_btn .pag_btn {
+        margin-top: 11px;
+        height: 35px;
+        line-height: 35px;
+        padding: 0 8px;
+    }
+
+    .book_puja .owl-nav {
+        margin-top: 10px;
+    }
+
+    .book_puja_item {
+        min-height: 350px;
+    }
+
+    .astro_cc .take_astro_iner .owl-nav {
+        margin-top: 10px;
+    }
+
+    .astro_cc {
+        padding: 24px 0 27px;
+    }
+
+    .take_astro_item span {
+        height: 213px;
+    }
+
+    .all-products .take_astro_item span {
+        height: 255px;
+    }
+
+    .videos-blog-sec {
+        padding: 30px 0 30px;
+    }
+
+    .videos-blog-iner {
+        margin-top: 10px;
+    }
+
+    .testimonials_sec .owl-item {
+        padding: 22px 14px;
+    }
+
+    .testimoni_img {
+        width: 78px;
+        height: 78px;
+    }
+
+    .testimoni_text p {
+        margin-top: 10px;
+    }
+
+    .testimoni_text strong {
+        font-size: 15px;
+        line-height: 21px;
+        margin-top: 10px;
+    }
+
+    .testimoni_text em {
+        font-size: 13px;
+    }
+
+    .horoscope_iner {
+        padding-top: 16px;
+    }
+
+    .shareBx span {
+        font-size: 13px;
+    }
+
+    .ast_det_left .media em {
+        width: 69px;
+        height: 69px;
+    }
+
+    .ast_det_left .media-body {
+        padding-top: 0;
+    }
+
+    .shareBx {
+        display: flex;
+        align-items: center;
+    }
+
+    .shareBx ul {
+        margin-top: 0;
+    }
+
+    .call_cha {
+        margin-top: 0 !important;
+        margin-left: 7px;
+        padding: 5px 7px;
+        font-size: 14px;
+    }
+
+    .call_cha img {
+        width: 10px;
+    }
+
+    .shareBx span {
+        padding-right: 10px;
+    }
+
+    .shareBx li {
+        margin-left: 0;
+    }
+
+    .about_astro h2, .customer_review_box h5, .edu_quliitem strong {
+        font-size: 18px;
+    }
+
+    .edu_quli, .edu_quliitem {
+        margin-top: 18px;
+    }
+
+    .ast_det_right_inr h6 {
+        font-size: 18px;
+    }
+
+    .pandits-puja span {
+        height: 255px;
+    }
+
+    .pandits-puja span img {
+        width: 100% !important;
+        height: 251px;
+        object-fit: cover;
+    }
+
+    .pandit-text h4 a {
+        font-size: 20px;
+    }
+
+    .pandit-text p {
+        font-size: 15px;
+        line-height: 18px;
+        padding-top: 5px;
+    }
+
+    .pandit-moreinfo ul li p {
+        font-size: 14px;
+        line-height: 18px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
+
+    .all-products .take_astro_item .talk_dat li:first-child em {
+        top: -1px;
+        left: 0;
+    }
+
+    .hedTopBtn.new-t {
+        display: block;
+    }
+
+    .dashboard-customer {
+        margin-top: 5px;
+    }
+    .dash-pro-list {
+    margin-top: 0;
+}
+.dash-pro-sec{
+    background: transparent;
+}
+    .profilbox , .dash-pro-sec{
+        width: 40%;
+        float: left;
+        padding: 10px 15px;
+    }
+
+    .cusdasbordlink , .dash-pro-list{
+        width: 60%;
+        float: right;
+        border-left: 1px solid #ccc;
+    }
+
+    .profilbox em {
+        width: 125px;
+        height: 125px;
+    }
+
+    .profilbox a {
+        font-size: 14px;
+    }
+
+    .cusdasbordlink li a {
+        padding: 7px 15px;
+        font-size: 15px;
+    }
+
+    .cusdasbordlink li img {
+        width: 16px;
+    }
+
+    .profilbox {
+        border-bottom: none;
+    }
+
+    .left-profle {
+        padding: 0;
+    }
+
+
+
+    .punditBx .pag_btn {
+        font-size: 11px;
+        padding: 0 6px;
+        margin-top: 18px;
+    }
+
+    .punditSec .col-md-4 {
+        padding: 14px 0;
+    }
+
+    .about_astro h2, .customer_review_box h5, .edu_quliitem strong, .ast_time strong {
+        font-size: 17px;
+    }
+
+    .cus-rightbody {
+        margin-top: 20px;
+        padding: 10px 15px;
+    }
+
+    .uplodimg label img {
+        margin-left: 0;
+    }
+
+    .uplodimgfil {
+        width: 48%;
+    }
+
+    .form_box_area {
+        margin-bottom: 0;
+    }
+
+    .signup-img {
+        width: calc(100% - 75px);
+        margin-bottom: 7px;
+    }
+    .hide_big {
+    width: 25%;
+}
+.dashboxitm {
+    padding: 10px 10px;
+}
+.meadia-img {
+    width: 55px;
+    height: 55px;
+    margin-right: 10px;
+
+}
+.meadia-img img{
+    width: 30px;
+}
+.meadia-body h6{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.small_screen2 {
+    width: 99% !important;
+}
+#product-image{
+        height: 315px;
+    }
+
+#product-image{
+        height: 385px;
+    }
+
+#product-image {
+    width: 73%;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    }
+    .pro-descriptipn .pro-heading h1 {
+    font-size: 26px;
+    line-height: 28px;
+    margin-bottom:10px;
+}
+.off {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.product_price del, .product_price .price {
+    font-size: 22px;
+}
+.pro-hr {
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.des-info {
+    margin-bottom: 0;
+}
+button.decrement-quantity, button.increment-quantity , .product-quantity input{
+    height: 40px;
+}
+.addcardbtn {
+    height: 40px;
+    line-height: 29px;
+    padding: 0;
+}
+.marb-20 {
+    margin-bottom: 15px;
+}
+.share-section .report-btn {
+
+    width: 128px;
+    height: 35px;
+    line-height: 26px;
+    font-size: 12px;
+}
+.share-btn p {
+    margin: 0;
+    font-size: 13px;
+    color: #666666;
+    padding-right: 7px;
+    line-height: 35px;
+}
+.share-btn ul li a {
+    line-height: 34px;
+}
+.item-description {
+    padding:15px 10px;
+    margin-top: 15px;
+}
+.share-btn ul li img{
+        width: 26px;
+        margin-right: 4px;
+    }
+.marb20 {
+    margin-bottom: 0px;
+}
+.new-quantity .product-quantity input, button.decrement-quantity, button.increment-quantity, button.decrement-quantity1, button.increment-quantity1 {
+    height: 36px;
+}
+.new-tabc .hide_big {
+    width: 17%;
+}
+.total-pay h3 {
+    font-size: 18px;
+    }
+.total-pay h3 span {
+    font-size: 21px;
+}
+ .ban_pick img {
+    max-width: 100%;
+}
+.all-products .gem-stone-text h5 {
+    font-size: 16px;
+    line-height: 19px;
+}
+.all-products .gem-stone-text p{
+    margin-top: 5px;
+}
+.all-products .gem-stone-text li .pag_btn {
+    line-height: 29px;
+    height: 29px;
+    padding: 0 10px;
+}
+
+.all-products .gem-stone-item {
+    min-height: auto;
+}
+
+
+/*(puja 13/04/21)*/
+.fin_staick ul {
+    display: inline-block;
+}
+
+/*(16/042021)*/
+.blogSec .col-sm-4{flex: 0 0 50%;
+max-width: 50%;}
+.blogSec{padding: 30px 0;}
+.blogSec .take_astro_item span {
+    height: 246px;
+}
+.blogleft-inr .row{margin: 0 -8px;}
+.blogleft-inr .col-sm-4, .blogSec .col-md-6{padding: 0 8px;}
+.blog-details-iner .astro_details{flex-direction: column; align-items: flex-start;}
+.blogSec .col-md-4{flex: 0 0 50%;
+max-width: 50%;}
+.blog-details .ast_det_left {
+    width: 100%;
+}
+.blog-details-iner .ast_det_left .media{align-items: flex-start;}
+/*post-review page*/
+.rating_post_mainBox ul li a{padding: 4px;}
+.rating_post_mainBox ul li a img{width: 20px;}
+.rating_post_mainBox ul li{margin-right: 6px;}
+
+.about_iner .col-sm-5, .about_iner .col-sm-7{flex: 0 0 100%;
+max-width: 100%;}
+.about-text h1{margin-top: 20px;}
+.blog-details{padding: 60px 0 40px;}
+
+/*10/08/21*/
+.slot_check input[type="checkbox"] + label{font-size: 13px;}
+
+
+.puja_or_pg .table {
+    width: 700px;
+    max-width: inherit;
+}
+.puja_or_pg .astro-dash-pro-right h1 {
+    padding-top: 0 !important;
+}
+.puja_det_pg .ast_det_left .media-body h4 {
+    font-size: 16px;
+}
+.puja_det_pg .checkBox span{font-size: 14px;}
+.puja_det_pg .checkBox input[type="radio"] + label, .puja_det_pg .checkBox input[type="checkbox"] + label{font-size: 14px;}
+
+.video-center iframe{width: 100%;}
+.product_card {
+    min-height: 283px !important;
+}
+button.decrement-quantity, button.increment-quantity, .product-quantity input{height: 36px;}
+.puja-zip {
+    margin-left: 0;
+    margin-top: 0px;
+}
+#zip_check_id {
+    margin-top: 0px;
+}
+.gan_puja_sec{
+    padding: 20px 12px;
+}
+.hed_puja_det_taital h2 {
+    font-weight: 600;
+    font-size: 18px;
+}
+.search-cat-produ .product_card {
+    min-height: 259px !important;
+}
+.show-actions {
+    display: none;
+    position: absolute;
+    z-index: 99;
+    background: #fff;
+    top: -4px;
+    right: auto;
+    left: 146px;
+    width: 155px;
+    border-radius: 8px;
+    border: 1px solid #dddcdc;
+    padding: 8px 0;
+}
+.show-actions{
+        left: 190px;
+    }
+    .astro-dash-form.new-astropuja .item{
+    width: 47%;
+    margin-right: 3%;
+    float: left;
+}
+.ast_det_left .media em{
+    margin-top: 0;
+}
+.astro_details.noflex {
+    position: relative;
+    padding-bottom:50px;
+}
+
+.astro_details.noflex .shareBx {
+    position: absolute;
+    bottom:13px;
+    top: inherit;
+    /* margin-right: 25px; */
+    right: 5px;
+}
+.details_sec.puja_det_pg.new-all-details .checkBox{
+        margin-bottom: 0;
+    }
+    .check-zip{
+        overflow: hidden;
+    }
+ .details_sec.puja_det_pg.new-all-details .ast_det_left .media-body h4{
+        padding-bottom: 0;
+        margin-top: 0;
+    }
+    .puja-zip .checkBox ul {
+    margin-top: 0;
+}
+
+/*09/03/21(puja)*/
+.addit_man_list .sll_btn{right: 13px;
+top: 0;}
+.addit_man_list ul{padding-right: 87px;}
+.addit_man_list li{font-size: 14px;}
+.color-sec.new-je.checkBox ul.image-radio1 {
+    width: 55%;
+    column-count: 3;
+}
+.color-sec.new-je.checkBox ul.image-radio1 li {
+    width: 29%;
+}
+
+ /*9october*/
+
+.bor-r{width:100%;}
+.mobile-list{ position: relative; top: 10px;}
+.sort-filter{width: 50%; padding-left: 0;}
+.top-total{display: flex; justify-content: space-between;}
+
+/*--01.11**/
+.mb-breadcrumbs ul li a, .mb-breadcrumbs ul li span{
+    font-size: 12px;
+}
+.mb-breadcrumbs ul li{
+    margin-bottom: 0;
+}
+.details-captions h1 {
+    font-size: 19px;
+    margin-bottom: 20px;
+}
+.details-captions h1:before{
+    height: 2px;
+}
+.details-captions p{
+    font-size: 13.6px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+.banner-inners{
+    background: #fff;
+}
+.banner-inners .nav-tabs .nav-link{
+        background: #efefef;
+    padding: 6px 10px;
+    margin-bottom: 5px;
+    font-size: 13px;
+    margin-right: 10px;
+    color: #000;
+}
+.banner-inners .nav-tabs .nav-link.active {
+    background: #efefef;
+    border: 0;
+    color: #fa9655;
+}
+.details-banners .tab-pane {
+    padding-top: 0px;
+}
+.details-banner-tabs h2{
+    font-size: 16px;
+}
+.details-banner-tabs p , .details-banners .card-body{
+    font-size: 13px;
+    line-height: 19px;
+}
+.details-banners .card-header a{
+    white-space: inherit;
+    font-size: 13.7px;
+    padding-bottom: 7px;
+    margin-bottom: 10px;
+}
+.wrap-details-list ul li {
+    width: 33.333%;
+    margin-bottom: 18px;
+    }
+.cayegoies_uls li{
+    width: calc(33.33% - 20px);
+    margin: 15px 10px;
+}
+.ban_vedio .wrapper__video{height: 250px !important;}
+.details-inner{    background: #eee;}
+.banner_box > img{
+	height:200px !important;
+}
+.checkBox.d-flex.sign-astro.new-cus ul li {
+        height: 80px;
+    }
+    .astro_bac_list li a {
+        font-size: 14px;
+        padding: 9px 5px 9px;
+    }
+
+}
+
+
+
+/*767*/
+@media only screen and (max-width: 650px) {
+#product-image{
+        height: 380px;
+    }
+
+#product-image {
+    width: 76%;
+    }
+    .show-actions{
+        left: 165px;
+    }
+    .astro_bac_list li a {
+        font-size: 13px;
+        padding: 9px 3px 9px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .videos-blog-iner .col-md-4 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .videos-blog-item {
+        min-height: auto;
+    }
+
+    .ban_pick {
+        width: 207px;
+    }
+
+    .carousel-control_bx {
+        text-align: center;
+    }
+
+    .carousel-control_bx {
+        bottom: 22px;
+    }
+
+    .login-body {
+        padding: 20px 0;
+    }
+
+    .main-center-div {
+        padding: 20px;
+    }
+
+    .login-from-area h2 {
+        font-size: 20px;
+    }
+
+    .login-from-area p {
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: 20px;
+    }
+
+    .login-type {
+        height: 45px;
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .forgot-passwords {
+        font-size: 14px;
+    }
+
+    .login-submit {
+        font-size: 18px;
+        font-weight: 500;
+        height: 42px;
+    }
+
+    .bottom-account-div {
+        padding-top: 20px;
+    }
+
+    .logfoot {
+        margin-top: 0px;
+        margin-bottom: 25px;
+    }
+
+    .logfoot li a {
+        font-size: 14px;
+    }
+
+    .logfoot li {
+        padding-left: 10px;
+    }
+
+    ::placeholder {
+        font-size: 14px;
+    }
+
+    .login-from-area p.terms-para {
+        font-size: 14px;
+    }
+
+    .inner-headings h3 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .inner-headings p {
+        font-size: 14px;
+    }
+
+    .banner-inner {
+        padding: 30px 0;
+    }
+
+    .breadcrumb-item a {
+        font-size: 14px;
+    }
+
+    .fliter-list h3.panel-title a {
+        font-size: 16px;
+    }
+
+    .list_checkBox {
+        font-size: 14px;
+    }
+
+    .review_box {
+        width: 100%;
+    }
+
+    .ast_det_left .media {
+        flex-direction: column;
+    }
+
+    .ast_det_left .media em {
+        width: 80px;
+        height: 80px;
+    }
+
+    .ast_det_left .media-body {
+        padding-top: 9px;
+    }
+
+    .ast_det_left .media-body h4 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .review_right .progress {
+        width: 158px;
+    }
+
+    .review_right li em {
+        font-size: 14px;
+    }
+
+    .review_left b {
+        font-size: 27px;
+    }
+
+    .review_left {
+        width: 100%;
+    }
+
+    .review_right {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .all-products .take_astro_item span {
+        height: 240px;
+    }
+
+    .take_astro_text {
+        padding: 20px 10px 15px 10px;
+    }
+
+    .talk_dat {
+        margin-top: 4px;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child {
+        padding-left: 22px;
+        border: 0;
+        padding-top: 4px;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child em {
+        left: -2px;
+        top: 2px;
+    }
+
+    .sort-filter p {
+        display: none;
+    }
+
+    .mobile-list {
+        width: 40%;
+    }
+
+    .testimonials_sec .owl-item.center {
+        background: none;
+    }
+
+    .new_ston {
+        top: 0;
+    }
+
+    .gem-stone-item span {
+        height: 103px;
+    }
+
+    .gem-stone-item span img {
+        width: 100px !important;
+    }
+
+    .gem-stone-text h5 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .gem-stone-text {
+        margin-top: 4px;
+    }
+
+    .gem-stone-item {
+        min-height: 256px;
+    }
+
+    .gem-stone-sec .owl-item {
+        padding: 10px 9px;
+    }
+
+    .gem-stone-iner {
+        margin-top: 15px;
+    }
+
+    .book_puja_img {
+        height: 194px;
+    }
+
+    .astro_cc .take_astro_item span img {
+        object-position: top;
+    }
+
+    .astro_cc .talk_dat li:first-child {
+        padding-left: 31px;
+    }
+
+    .astro_cc .talk_dat li em {
+        left: 9px;
+    }
+
+    .astro_cc .talk_dat li {
+        padding-left: 31px;
+        padding-right: 5px;
+    }
+
+    .astro_cc .take_astro_item h4 {
+        font-size: 15px;
+    }
+
+    .shareBx {
+        display: flex;
+        align-items: center;
+    }
+
+    .shareBx ul {
+        margin-top: 0;
+    }
+
+    .call_cha {
+        margin-top: 0 !important;
+        margin-left: 7px;
+        padding: 5px 7px;
+        font-size: 14px;
+    }
+
+    .call_cha img {
+        width: 10px;
+    }
+
+    .shareBx span {
+        padding-right: 10px;
+    }
+
+    .shareBx li {
+        margin-left: 0;
+    }
+
+    .about_astro h2, .customer_review_box h5, .edu_quliitem strong {
+        font-size: 18px;
+    }
+
+    .edu_quli, .edu_quliitem {
+        margin-top: 18px;
+    }
+
+    .ast_det_right_inr h6 {
+        font-size: 18px;
+    }
+
+    .ast_det_left .media {
+        flex-direction: row;
+    }
+
+    .ast_det_left .media-body h4 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .shareBx span i {
+        font-size: 16px;
+    }
+
+    .shareBx li img {
+        width: 20px;
+    }
+
+    .call_cha {
+        font-size: 11px;
+        padding: 2px 4px;
+    }
+
+    .about_astro h2, .customer_review_box h5, .edu_quliitem strong {
+        font-size: 15px;
+    }
+
+    .ast_det_left .media-body h4 b {
+        padding: 2px;
+        font-size: 8px;
+    }
+
+    .ast_det_left .media em {
+        margin-right: 6px;
+    }
+
+    .ast_det_left .media-body {
+        padding-top: 0;
+    }
+
+    .astro_details, .about_astro, .about_astro, .customer_review_box {
+        padding: 15px 15px;
+    }
+
+    .ast_det_left .media {
+        flex-direction: column;
+    }
+.details_sec.puja_det_pg.new-all-details .ast_det_left .media {
+        flex-direction: inherit;
+    }
+    .pandits-puja span {
+        border: 0;
+        height: 240px;
+    }
+
+    .pandit-text {
+        padding: 5px 5px 5px 5px;
+        width: 100%;
+    }
+
+    .pandit-text h4 a {
+        font-size: 18px;
+    }
+
+    .pandit-text p {
+        font-size: 14px;
+        line-height: 18px;
+        padding-top: 5px;
+    }
+
+    .pandit-moreinfo ul li p {
+        font-size: 14px;
+        line-height: 18px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
+
+    .pandit-text p img , .pandit-moreinfo ul li p img {
+        margin-right: 0px;
+        width: 12px;
+    }
+
+    .pandit-moreinfo ul li:first-child {
+        margin-right: 5px;
+    }
+
+    .otp-sec ul li input {
+        padding: 10px;
+    }
+
+    .profilbox em {
+        width: 125px;
+        height: 125px;
+    }
+
+    .profilbox , .dash-pro-sec{
+        width: 45%;
+        padding: 10px 5px;
+    }
+
+    .cusdasbordlink , .dash-pro-list{
+        width: 55%;
+    }
+
+    .profilbox a {
+        font-size: 14px;
+    }
+
+    .cusdasbordlink li a {
+        padding: 5px 15px;
+        font-size: 14px;
+    }
+
+    .cusdasbordlink li img {
+        width: 14px;
+    }
+
+    .cusdashb-left {
+        margin-top: 0px;
+    }
+
+    .gem-stone-text h5 {
+        font-size: 15px;
+    }
+
+    .astro_cc .talk_dat li:first-child {
+        padding-left: 30px;
+    }
+
+    .punditSec .col-md-4:last-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-top: 4px;
+    }
+
+    .ast_det_left .media-body h4 {
+        margin-top: 4px;
+    }
+
+    .review_left {
+        width: 30%;
+    }
+
+    .review_right {
+        width: auto;
+        margin-top: 0;
+    }
+
+    .review_right .progress {
+        width: 120px;
+    }
+
+    .about_astro h2, .customer_review_box h5, .edu_quliitem strong {
+        font-size: 16px;
+    }
+
+    .ast_det_right_inr h6 {
+        font-size: 17px;
+    }
+
+    .ast_time strong {
+        font-size: 15px !important;
+    }
+
+    .dashboard-customer:before {
+        top: -15px;
+    }
+
+    .cus-rightbody {
+        margin-top: 15px;
+        padding: 10px 15px;
+    }
+
+    .uplodimg label img {
+        margin-left: 0;
+    }
+
+    .uplodimgfil {
+        width: 70%;
+    }
+
+    .signup-img {
+        width: calc(100% - 75px);
+        margin-bottom: 7px;
+    }
+
+    .subBtn {
+        padding-left: 8px;
+        padding-right: 46px;
+        font-size: 16px;
+        height: 38px;
+        line-height: 38px;
+        background: url(../images/submitarw.png)no-repeat right 12px center #fbbc93;
+    }
+
+    .res {
+        padding: 0 12px;
+        font-size: 14px;
+        height: 38px;
+        line-height: 38px;
+        margin-left: 1px;
+    }
+
+    .dashboard_sec {
+        padding-bottom: 40px;
+    }
+
+    .form_box_area textarea {
+        height: 100px;
+    }
+
+    .profidrop span {
+        font-size: 13px;
+    }
+    .hide_big {
+    width: 25%;
+}
+.dash_info, .dasbbox {
+    margin-top: 6px;
+}
+.dash_info h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.dash_info p {
+    font-size: 14px;
+    line-height: 19px;
+    }
+.dashboxitm {
+    padding: 10px 15px;
+}
+.meadia-img {
+    width: 55px;
+    height: 55px;
+
+}
+.meadia-img img{
+    width: 35px;
+}
+.meadia-body h6{
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+#product-image {
+    width: 76%;
+    margin-left: .8rem;
+}
+ #product-image{
+        height: 340px;
+        margin-bottom: 15px;
+    }
+
+
+
+.pro-descriptipn .pro-heading h1 {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 8px;
+}
+.off {
+    font-size: 13px;
+    margin-bottom: 3px;
+}
+.product_price del, .product_price .price {
+    font-size: 20px;
+}
+.pro-hr {
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.des-info {
+    margin-bottom: 0;
+}
+button.decrement-quantity, button.increment-quantity , .product-quantity input{
+    height: 35px;
+}
+.addcardbtn {
+    width: 133px;
+    height: 36px;
+    line-height: 29px;
+    font-size: 12px;
+    padding: 0;
+}
+.marb-20 {
+    margin-bottom: 15px;
+}
+.share-section .report-btn {
+
+    width: 135px;
+    height: 35px;
+    line-height: 26px;
+    font-size: 12px;
+}
+.share-btn p {
+    margin: 0;
+    font-size: 13px;
+    color: #666666;
+    padding-right: 7px;
+    line-height: 35px;
+}
+.share-btn ul li a {
+    line-height: 34px;
+}
+.item-description {
+    padding:15px 10px;
+}
+.item-description h2 {
+    font-size: 19px;
+    margin-bottom: 6px;
+}
+.item-description p , .item-description .moreless-button{
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 6px;
+}
+.marb20 {
+    margin-bottom: 0px;
+}
+.new-tabc .cess:first-child {
+    padding-left: 5px;
+}
+span.hide_big.font0{
+    display: none !important;
+}
+.new-quantity .product-quantity input, button.decrement-quantity, button.increment-quantity, button.decrement-quantity1, button.increment-quantity1 {
+    height: 36px;
+}
+.cart-btn-sec {
+    float: right;
+    margin: 10px 0 35px 0;
+}
+.cart-price-box{
+    margin-top: -22px;
+}
+.new-tabc .hide_big {
+    width: 19%;
+}
+.res{
+    margin-right: 8px;
+}
+.all-products .gem-stone-text h5 {
+    font-size: 15.5px;
+    line-height: 19px;
+}
+.all-products .gem-stone-text p{
+    margin-top: 5px;
+}
+.all-products .gem-stone-text li .pag_btn {
+    line-height: 29px;
+    height: 29px;
+    padding: 0 10px;
+}
+.all-products .gem-stone-text ul{
+    margin-top: 5px;
+}
+.all-products .gem-stone-item {
+    min-height: 245px;
+}
+
+/*(16/042021)*/
+.blog-details-iner .ast_det_left .media {
+    flex-direction: row;
+}
+
+
+.blogSec .book_puja_text h6 {
+    font-size: 15px;
+}
+.blogSec .videos-post{flex-direction: column;}
+.blogSec .videos-post span{margin-top: 3px;}
+.blogSec .videos-blog-text h5 {
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.resentpostbx .col-sm-6:nth-of-type(2) .media {
+    border-top: solid 1px #e2e2e2;
+}
+.blog-details .videos-blog-img > img {
+    height: 359px;
+}
+.custom_modal_sg .slot_check li{
+    width: 25%;
+}
+
+.puja_or_pg .u_ran ul li span {
+    width: auto;
+    margin-right: 10px;
+}
+.header_top_inr li{padding: 3px 6px;}
+.puja_or_pg .u_ran li p, .color_an {
+    font-size: 14px;
+}
+.puja_or_pg .table {
+    width: 618px;
+    max-width: inherit;
+}
+.puja_or_pg .table th, .table td{padding: 4px;}
+button.decrement-quantity, button.increment-quantity, .product-quantity input {
+    height: 36px;
+}
+.puja-zip {
+    margin-left: 00px;
+    margin-top: 0;
+}
+#zip_check_id {
+    margin-top: 0px;
+}
+.add-cus{
+    margin-top: 20px;
+    position: inherit;
+}
+.add-cus-sec h2 {
+    font-size: 15px;
+    padding-bottom: 0;
+}
+.add-cus-sec{
+    padding-bottom: 0;
+}
+.add-cus{
+    position: inherit;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.all-products.search-cat-produ .col-lg-4.col-md-4.col-sm-6.col-12{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.show-actions{
+    width: 125px;
+}
+.show-actions {
+    display: none;
+    position: absolute;
+    z-index: 99;
+    background: #fff;
+    top: -4px;
+    right: auto;
+    left: 146px;
+    width: 155px;
+    border-radius: 8px;
+    border: 1px solid #dddcdc;
+    padding: 8px 0;
+}
+.all-products.puja-prod .puja_card {
+    min-height: auto !important;
+}
+.hed_puja_det_taital h2 {
+    font-weight: 600;
+    font-size: 16px;
+}
+.add-cus {
+    font-size: 15px;
+    }
+  .details_sec.puja_det_pg.new-all-details .checkBox{
+        margin-bottom: 0;
+    }
+    .details_sec.puja_det_pg.new-all-details .pag_btn{
+        margin-top: 0;
+    }
+    .form_box_area input[type], .form_box_area input[type], .select-pure__select, .form_box_area select {
+    margin-top: 0;
+}
+.check-zip{
+    margin-top: 0
+}
+
+.addit_man_list .sll_btn {
+    right: inherit;
+    top: inherit;
+    margin-top: 10px !important;
+    position: inherit;
+}
+.addit_man_list li{margin-top: 6px;}
+.addit_man .form_box_area{-ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%; margin-top: 8px !important;}
+.addit_man .add_more{-ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%; margin-top: 8px !important;}
+.addit_man_list ul {
+    padding-right: 0;
+}
+.puja_det_pg .ast_det_left .media-body p{flex-direction: column;}
+.puja_det_pg .ast_det_left .media{flex-direction: column !important;}
+.pric_ypu {
+    justify-content: flex-start;
+    margin-top: 7px;
+}
+
+.color-sec {
+    margin-top: 0;
+}
+.color-sec.new-je.checkBox input[type="radio"] + label {
+    font: 400 12px/30px 'Roboto', sans-serif;
+    background-size: 13px;
+    padding-left: 17px;
+}
+.checkBox ul {
+    margin-top: 00;
+    }
+  .color-sec.new-je  .list_checkBox {
+    font-size: 12px;
+}
+.color-sec.new-je select {
+
+    font: 400 12px/18px 'Roboto', sans-serif;
+
+    background: url(../images/select.png)no-repeat center right 5px;
+
+}
+.gem_id_price h2{
+    font-size: 13px;
+}
+.gem_id_price {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sort-select {
+    width: 97%;
+}
+.mobile-list {
+    width: 100% !important;
+}
+.take_astro_item h4 {
+    font-size: 16px;
+}
+.gem-stone-text ul{
+    flex-wrap: wrap;
+}
+.gem-stone-text li {
+    font-size: 15px;
+}
+
+/*--01.11**/
+.mb-breadcrumbs ul li a, .mb-breadcrumbs ul li span{
+    font-size: 12px;
+}
+.mb-breadcrumbs ul li{
+    margin-bottom: 0;
+}
+.details-captions h1 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.details-captions h1:before{
+    height: 2px;
+}
+.details-captions p{
+    font-size: 13.6px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+.banner-inners{
+    background: #fff;
+}
+.banner-inners .nav-tabs .nav-link{
+        background: #efefef;
+    padding: 6px 10px;
+    margin-bottom: 5px;
+    font-size: 13px;
+    margin-right: 10px;
+    color: #000;
+}
+.banner-inners .nav-tabs .nav-link.active {
+    background: #efefef;
+    border: 0;
+    color: #fa9655;
+}
+.details-banners .tab-pane {
+    padding-top: 0px;
+}
+.details-banner-tabs h2{
+    font-size: 16px;
+}
+.details-banner-tabs p , .details-banners .card-body{
+    font-size: 13px;
+    line-height: 19px;
+}
+.details-banners .card-header a{
+    white-space: inherit;
+    font-size: 13.7px;
+    padding-bottom: 7px;
+    margin-bottom: 10px;
+}
+.wrap-details-list ul li {
+    width: 50%;
+    }
+    .wrap-details-list ul li h3, .wrap-details-list ul li strong {
+        font-size: 14.5px;
+    }
+    .wrap-details-list ul li span {
+        font-size: 13px;
+    }
+    .cayegoies_uls li{
+    width: calc(50% - 20px);
+    margin: 15px 10px;
+}
+.categ-lists{
+    padding:15px 10px;
+}
+.lists_li a{
+    font-size: 16px;
+}
+.lists_li p{
+    font-size: 12.5px;
+}
+.common-head h2 {
+    font-size: 20px;
+}
+.common-head p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.privacy-content h3{
+    font-size: 16px;
+    line-height: 22px;
+}
+.privacy-content p, .privacy-content ol li, .privacy-content ul li{
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.details-inner{ background: #eee;}
+.horoscope_report {
+    margin: 0 0 15px 0;
+    width: 100%;
+    padding: 0 14px 14px 14px;
+
+}
+.horoscope_report .edu_quliitem {
+    margin-top: 14px;
+}
+.horoscope_report_main {
+    padding: 19px 11px 4px 11px;
+}
+.ban_pick img {
+    width: 71% !important;
+}
+.ban_pick {
+    margin-top: 128px !important;
+}
+.astro_bac_list li a img{
+    display: none;
+}
+.astro_bac_list li.actv a .bacicon2{
+    display: none;
+}
+
+.view_action_icons {
+    position: relative;
+    right: inherit;
+    top: 0;
+    padding-left: 9px;
+}
+.view_action_icons li a{ 
+    width: 34px;
+    height: 34px;
+    line-height: 34px; 
+     font-size: 17px;
+ }
+.view_action_icons li {
+    display: inline-block;
+    padding: 0 1px;
+}
+
+
+
+
+}
+
+
+
+
+
+/*575*/
+
+
+@media only screen and (min-width: 481px) and (max-width: 540px) {
+.gem-stone-text p {
+    min-height: 60px;
+    overflow: hidden;
+}
+
+}
+
+
+@media only screen and (max-width: 540px) {
+#product-image{
+        height: 315px;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .pandits-puja span {
+        height: 210px;
+    }
+    #product-image{
+        height: 290px;
+    }
+
+.all-products .gem-stone-text p {
+    height: 55px;
+    overflow: hidden;
+}
+}
+
+@media only screen and (max-width: 480px) {
+
+    .pghed h1, .pghed h2, .pghed h3, .pghed h4, .pghed h5, .pghed h6 {
+        font-size: 23px;
+        line-height: 38px;
+    }
+
+    .bbn_tx {
+        width: 100%;
+    }
+	.ban_pick img {
+		width: 100% !important;
+	}
+
+    .ban_pick {
+        width: 128px !important;
+		margin-top: 138px !important
+    }
+
+    .horoscope_iner .col-md-2 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .gem_ston_btn .pag_btn {
+        margin-top: 10px;
+    }
+
+    .book_puja .owl-nav {
+        margin-top: 15px;
+    }
+
+    .videos-blog-iner .col-md-4 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .videos-blog-item {
+        min-height: auto;
+    }
+
+    .testimonials_sec {
+        padding: 30px 0 40px;
+    }
+
+    .logfoot li a {
+        font-size: 13px;
+    }
+
+    .sort-select {
+        width: 95%;
+        float: right;
+    }
+
+    .review_right {
+        margin-left: 0;
+    }
+
+    .review_right .progress {
+        width: 103px;
+    }
+
+    .talk_now_fll .pag_btn {
+        font-size: 18px;
+    }
+
+    .ast_time strong {
+        font-size: 15px;
+    }
+
+    .all-products .take_astro_item span {
+        height: 220px;
+    }
+
+    .all-products .take_astro_item .take_astro_text {
+        padding: 17px 10px 20px 10px;
+    }
+
+    .all-products .talk_dat li {
+        display: block;
+    }
+
+    .all-products .talk_dat li {
+        padding-left: 20px;
+        border-left: solid 0px #bfbfbf;
+        font-size: 13px;
+    }
+
+    .all-products .take_astro_item .talk_dat li em {
+        left: 0;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child {
+        padding-top: 0;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child em {
+        left: -2px;
+        top: -1px;
+    }
+
+    .all-products .take_astro_item .talk_dat {
+        margin-top: 3px;
+    }
+
+    .mobile-list {
+        width: 46%;
+    }
+
+    .horoscope_bx span img {
+        width: 40px;
+    }
+
+    .horoscope_bx strong {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .horoscope_bx em {
+        font-size: 13px;
+    }
+
+    .astro_cc .take_astro_item h4 {
+        font-size: 16px;
+    }
+
+    .pandits-puja span {
+        height: 190px;
+    }
+
+    .pandit-text {
+        padding: 0px 5px 5px 5px;
+        width: 100%;
+    }
+
+    .pandit-text h4 a {
+        font-size: 16px;
+    }
+
+    .pandit-text p {
+        font-size: 13px;
+        line-height: 18px;
+        padding-top: 3px;
+    }
+
+    .pandit-moreinfo ul li p {
+        font-size: 13px;
+        line-height: 18px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
+
+    .pandit-text p img , .pandit-moreinfo ul li p img {
+        margin-right: 0px;
+        width: 10px;
+    }
+
+    .pandit-moreinfo ul li:first-child {
+        margin-right: 5px;
+    }
+
+    .otp-sec ul li input {
+        height: 35px;
+        padding: 5px;
+    }
+
+    .profilbox , .dash-pro-sec{
+        width: 100%;
+    }
+
+    .cusdasbordlink , .dash-pro-list {
+        width: 100%;
+    }
+
+    .profilbox a {
+        font-size: 16px;
+    }
+
+    .profilbox a {
+        font-size: 15px;
+    }
+
+    .cusdasbordlink li a {
+        padding: 8px 15px;
+        font-size: 15px;
+    }
+
+    .cusdasbordlink li img {
+        width: 16px;
+    }
+
+    .dashboard-customer {
+        margin-top: 15px;
+    }
+
+    .review_right {
+        margin-left: 12px;
+        margin-top: 0;
+    }
+
+    .review_left {
+        padding: 13px 5px;
+    }
+
+    .review_left b {
+        font-size: 25px;
+    }
+
+    .review_right .progress {
+        width: 90px;
+    }
+
+    .form_box_area {
+        margin-bottom: 0;
+    }
+
+    .save-change {
+        width: 169px;
+        height: 43px;
+        margin-top: 15px;
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .show01 ul li a {
+        font-size: 14px;
+        padding: 4px 15px;
+    }
+
+    .save_coniBx_left {
+        width: auto;
+        padding-left: 0;
+    }
+
+    .inputfile + label {
+        font-size: 14px !important;
+    }
+
+    .astro_bac_list li a {
+        margin-top: 3px;
+    }
+
+    .table_sec {
+        overflow: auto;
+    }
+
+    .table_sec .table {
+        width: 500px;
+        max-width: inherit;
+    }
+    .new-tabc .hide_big {
+    width: 28%;
+}
+      .hide_big {
+    width: 28%;
+}
+ #product-image{
+        height: 280px;
+    }
+
+.astro_bac_list li {
+    display: inline-block;
+    margin: 0;
+    width: 49%;
+}
+.astro_bac_list li a {
+    font-size: 17px;
+    padding: 9px 6px 9px;
+}
+.astro_bac_list li a img {
+    width: 20px;
+}
+.astro_bac_list{
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.dash-pro-sec{
+    background: #fbd4c5;
+}
+.all-products  .gem-stone-text ul{
+    display: inherit;
+}
+.all-products  .gem-stone-text p {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 2px;
+}
+.all-products  .gem-stone-text h5 {
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.all-products  .gem-stone-text li{
+    padding: 6px 0 2px 0;
+    font-size: 15px;
+}
+.all-products .gem-stone-item {
+    min-height: 270px;
+}
+.all-products .gem-stone-text li .pag_btn {
+    line-height: 27px;
+    height: 27px;
+    padding: 0 10px;
+}
+.all-products .new_ston {
+    font-size: 13px;
+    padding: 1px 12px;
+}
+.all-products .gem-stone-text ul {
+    margin-top: 0;
+}
+.addressbook {
+    display: inline-block;
+    align-items: center;
+}
+.mart17m {
+    margin-top: 6px;
+}
+
+/*(puja 14/04/21)*/
+
+.about_sec {
+    padding: 30px 0 40px;
+}
+.vision-sec{margin-top: 10px;}
+.vision-sec strong {
+    width: 90px;
+    height: 90px;
+}
+.vision-sec .media-body h4 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.about-text p{font-size: 14px;margin-top: 7px;}
+.about-text h1{font-size: 26px;}
+.about-text{padding-top: 15px;}
+
+/*contact page*/
+.connectleft{width: 100%;}
+.connectinr{flex-direction: column; justify-content: flex-start; align-items: flex-start;}
+.connectright{width: 100%;}
+.getsted {font-size: 14px; line-height: 31px; height: 30px; padding: 0 10px; margin-top: 20px;}
+.getsted em{background-size: 13px;}
+.contactDetail .media i {
+    width: 30px;
+    height: 30px;
+}
+.contactDetail .media-body em a{width: 100%; display: inline-block;}
+.contactSec {
+    padding: 32px 0 30px;
+}
+.contSoc li a img{width: 28px;}
+.contactIput textarea {
+    height: 90px;
+}
+.slot_check input[type="checkbox"] + label{font-size: 13px;}
+.pag_adress{
+    margin-top: 10px !important;
+    float: left;
+}
+.puja_det_pg .ast_det_left .media-body h4 {
+    font-size: 16px;
+}
+.puja_det_pg .ast_det_left .media-body p {
+    font-size: 13px;
+}
+.custom_list {
+
+    align-items: flex-start;
+    flex-direction: column;
+}
+.take_astro_item h4 b {
+    padding:2px 4px;
+    font-size: 11px;
+    height: 16px;
+    line-height: 16px;
+    margin-left:0px;
+    display: inline-table;
+}
+.gem-stone-text h5 {
+    height: auto;
+    overflow: hidden;
+}
+
+.gem-stone-text h5 {
+    min-height: auto;
+}
+.booking_type_radio li {
+    width: 100% !important;
+    margin: 0 !important;
+}
+.astro_bac_list ul {
+    display: block;
+}
+}
+/*480*/
+@media only screen and (max-width: 450px) {
+    .pandits-puja span {
+        border: 0;
+        height: 180px;
+    }
+
+    .pandit-text {
+        padding: 0px 5px 5px 5px;
+        width: 100%;
+    }
+
+    .pandit-text h4 a {
+        font-size: 16px;
+    }
+
+    .pandit-text p {
+        font-size: 13px;
+        line-height: 18px;
+        padding-top: 3px;
+    }
+
+    .pandit-moreinfo ul li p {
+        font-size: 13px;
+        line-height: 18px;
+        padding-bottom: 0px;
+        padding-top: 2px;
+    }
+
+    .pandit-text p img , .pandit-moreinfo ul li p img {
+        margin-right: 0px;
+        width: 10px;
+    }
+
+    .pandits-puja {
+        padding-bottom: 10px;
+    }
+
+    .wid-40 , .wid-60 {
+        width: 100%;
+        border-right: 0px solid #d9d9d9;
+    }
+
+    .pandit-moreinfo {
+        border-top: 1px solid #d9d9d9;
+        padding: 0 5px;
+    }
+      .hide_big {
+    width: 30%;
+}
+ #product-image{
+        height: 255px;
+    }
+
+
+.all-products  .gem-stone-text h5 {
+    font-size: 15px;
+    line-height: 19px;
+}
+
+
+.all-products .gem-stone-item {
+    min-height: 290px;
+}
+
+.blogSec .col-md-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+
+}
+
+
+@media only screen and (max-width: 430px) {
+ #product-image{
+        height: 240px;
+    }
+
+
+/*(puja 14/04/21)*/
+
+.vision-sec .media {
+    margin-top: 10px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.vision-sec .media-body h4{margin-top: 9px;}
+
+
+
+.all-products.search-cat-produ .col-lg-4.col-md-4.col-sm-6.col-12{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.gem-stone-text h5 {
+    height: auto;
+    overflow: hidden;
+}
+.all-products .gem-stone-text p {
+    height: auto;
+    overflow: hidden;
+}
+.all-products .gem-stone-text ul {
+    display: flex;
+}
+.search-cat-produ .product_card {
+    min-height: auto !important;
+}
+.astro-dash-form.new-astropuja .item{
+    width: 100%;
+    margin-right: 0%;
+    float: inherit;
+}
+}
+/*450*/
+
+@media only screen and (max-width: 400px) {
+    .all-products .take_astro_item span {
+        height: 195px;
+    }
+
+    .all-products .take_astro_item .take_astro_text {
+        padding: 17px 5px 20px 5px;
+    }
+
+    .take_astro_item h4 {
+        font-size: 15px;
+    }
+
+    .all-products  .take_astro_item h4 b {
+        padding: 4px;
+        font-size: 10px;
+        height: 14px;
+        line-height: 14px;
+        margin-left: 5px;
+    }
+
+    .all-products .talk_dat li {
+        display: block;
+    }
+
+    .all-products .talk_dat li {
+        padding-left: 20px;
+        border-left: solid 0px #bfbfbf;
+        font-size: 12px;
+    }
+
+    .all-products .take_astro_item .talk_dat li em {
+        left: 0;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child {
+        padding-top: 0;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child em {
+        left: -2px;
+        top: -1px;
+    }
+
+    .all-products .take_astro_item .tack_new {
+        left: 6px;
+        height: 30px;
+        line-height: 30px;
+        padding: 0 8px 0 8px;
+        font-size: 13px;
+    }
+
+    .all-products .take_astro_item .talk_dat {
+        margin-top: 3px;
+    }
+
+    .shareBx {
+        display: inline-block;
+        float: left;
+    }
+
+    .call_cha {
+        margin-left: 0 !important;
+        margin-top: 9px !important;
+    }
+
+    .shareBx ul {
+        margin-top: 4px;
+    }
+
+    .edu_quliitem strong em img {
+        width: 20px;
+    }
+
+    .edu_quliitem strong {
+        padding-left: 28px;
+    }
+
+    .pandits-puja span {
+        height: 158px;
+    }
+
+    .pandit-text {
+        padding: 0px 5px 5px 5px;
+        width: 100%;
+    }
+
+    .pandit-text h4 a {
+        font-size: 16px;
+    }
+
+    .pandit-text p {
+        font-size: 13px;
+        line-height: 18px;
+        padding-top: 3px;
+    }
+
+    .pandit-moreinfo ul li p {
+        font-size: 13px;
+        line-height: 18px;
+        padding-bottom: 0px;
+        padding-top: 2px;
+    }
+
+    .pandit-text p img , .pandit-moreinfo ul li p img {
+        margin-right: 0px;
+        width: 10px;
+    }
+
+    .pandits-puja {
+        padding-bottom: 10px;
+    }
+
+    .wid-40 , .wid-60 {
+        width: 100%;
+        border-right: 0px solid #d9d9d9;
+    }
+
+    .pandit-moreinfo {
+        border-top: 1px solid #d9d9d9;
+        padding: 0 5px;
+    }
+
+    .after_login a b span {
+        display: none;
+    }
+
+    .review_left {
+        width: 100%;
+    }
+
+    .review_right {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 5px;
+        text-align: center;
+    }
+
+
+    .save_coniBx_right {
+        padding-right: 7px;
+    }
+
+    .subBtn {
+        background-image: none;
+        padding: 0 20px;
+    }
+
+    .save_coniBx_right span {
+        font-size: 13px;
+    }
+
+    .checkBox.d-flex.sign-astro.new-cus ul li {
+        height: 46px;
+        border: 1px solid #afafaf;
+        border-radius: 3px;
+        padding-left: 10px;
+        width: calc(50% - 5px);
+        margin-left: 5px;
+    }
+
+    .main-center-div {
+        padding: 20px 10px;
+    }
+
+    .profidrop em {
+        width: 23px;
+        height: 23px;
+    }
+.upload_box label.btn-2{
+     font-size: 15px;
+}
+.upload_box {
+    width: 108px;
+}
+.chat-fots{
+    padding: 15px 10px;
+}
+.chat-send , a.close_btns{
+    padding:7px 10px;
+    font-size: 14px;
+    }
+    .upload_box label.btn-2{
+        padding: 10px 0 0 28px;
+    }
+
+    .profidrop em img {
+        width: 10px;
+    }
+    .hide_big {
+    width: 37%;
+}
+  #product-image{
+        height: 230px;
+        margin-bottom: 15px;
+    }
+
+
+.pro-descriptipn .pro-heading h1 {
+    font-size: 22px;
+    line-height: 25px;
+    margin-bottom: 8px;
+}
+.off {
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+.product_price del, .product_price .price {
+    font-size: 20px;
+}
+.pro-hr {
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.des-info {
+    margin-bottom: 0;
+}
+button.decrement-quantity, button.increment-quantity , .product-quantity input{
+    height: 35px;
+}
+.addcardbtn {
+    width: 133px;
+    height: 36px;
+    line-height: 29px;
+    font-size: 12px;
+    padding: 0;
+}
+.marb-20 {
+    margin-bottom: 15px;
+}
+.share-section .report-btn {
+
+    width: 145px;
+    height: 35px;
+    line-height: 26px;
+    font-size: 12px;
+}
+.share-btn.float-right{
+    float: left !important;
+}
+.item-description {
+    padding:15px 10px;
+}
+.item-description h2 {
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+.item-description p , .item-description .moreless-button{
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 6px;
+}
+.cart-details .product-title a {
+    font-size: 16px;
+    }
+.wid-cart {
+    width: auto;
+}
+.cart-price-box{
+    padding: 15px 10px 3px 10px;
+}
+.total-pay h3 span{
+    margin-left: 15px;
+    font-size: 20px;
+}
+.total-pay h3 {
+    font-size: 17px;
+    }
+.cartbtn {
+    font-size: 16px;
+    height: 40px;
+    padding: 1px 13px;
+    margin-left: 3px;
+}
+.astro-dash-right_iner{
+    padding: 10px 10px 30px;
+}
+.save_coniBx{
+    margin: 17px 0px 0;
+}
+
+/*(16/042021)*/
+.blogSec .take_astro_item span {
+    height: 143px;
+}
+.blogSec .take_astro_text {
+    padding: 8px 8px;
+}
+.blogSec .take_astro_text b{margin-top: 1px;
+font-size: 12px;}
+.blogSec .take_astro_text p{margin-top: 2px;
+font-size: 12px;
+line-height: 17px;}
+.redmor{font-size: 13px;
+line-height: 22px;
+margin-top: 5px;}
+.pagination_bx{margin-top: 30px;}
+.blog-details-iner .shareBx {
+    display: flex;
+}
+.blog-details-iner .shareBx ul {
+    margin-top: 0;
+}
+.blog-details-iner .shareBx li{margin-top: 0;}
+.blogSec .book_puja_img em{clip-path: inherit; padding: 3px;}
+.blogSec .book_puja_text .pag_btn {
+    font-size: 12px;
+    height: 23px;
+    line-height: 23px;
+    padding: 0 6px;
+    border-radius: 5px;
+    margin-top: 6px;
+}
+.blogSec .book_puja_img {
+    height: 180px;
+}
+.book_puja_item {
+    min-height: 381px;
+}
+.blogSec .col-md-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.about-img img{height: 278px;}
+.blog-details .videos-blog-img > img {
+    height: 280px;
+}
+.custom_modal_sg .slot_check li{
+    width: 33.33%;
+}
+.slot_class{
+    height: 275px;
+}
+.check-zip{
+    padding: 0 4px;
+    margin-left: 8px;
+    font-size: 14px;
+}
+.item-description h2 {
+    font-size: 16px;
+}
+.cayegoies_uls li{
+    width: calc(50% - 20px);
+    margin: 15px 10px;
+}
+.astro-custom-price .col-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.astro-custom-price .take_astro_item {
+    min-height: auto;
+}
+
+
+
+}
+/*--400--*/
+@media only screen and (max-width: 380px) {
+    #product-image{
+        height: 215px;
+    }
+
+.color-sec.new-je.checkBox ul.image-radio1 {
+    width: 55%;
+    column-count: 2;
+}
+
+.color-sec.new-je.checkBox ul.image-radio1 li {
+    float: unset;
+    width: 43%;
+}
+
+}
+
+/*--380--*/
+
+@media only screen and (max-width: 350px) {
+    .logfoot li a {
+        font-size: 12px;
+    }
+
+    .sort-select {
+        width: 95%;
+        float: right;
+    }
+
+    .all-products .take_astro_item span {
+        height: 185px;
+    }
+
+    .all-products  .take_astro_item h4 b {
+        padding: 2px;
+        font-size: 8px;
+        height: 14px;
+        line-height: 14px;
+        margin-left: 5px;
+    }
+.wrap-details-list ul li {
+    width: 100%;
+    }
+    .all-products .talk_dat li {
+        display: block;
+    }
+
+    .all-products .talk_dat li {
+        padding-left: 20px;
+        border-left: solid 0px #bfbfbf;
+        font-size: 12px;
+    }
+
+    .all-products .take_astro_item .talk_dat li em {
+        left: 0;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child {
+        padding-top: 0;
+    }
+
+    .all-products .take_astro_item .talk_dat li:last-child em {
+        left: -2px;
+        top: -1px;
+    }
+
+    .all-products .take_astro_item .tack_new {
+        left: 6px;
+        height: 30px;
+        line-height: 30px;
+        padding: 0 8px 0 8px;
+        font-size: 13px;
+    }
+
+    .all-products .take_astro_item .talk_dat {
+        margin-top: 3px;
+    }
+
+    .pandits-puja span {
+        height: 134px;
+    }
+
+    .punditSec .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .punditSec .col-md-4:last-child {
+        margin-top: 4px;
+    }
+    .hide_big {
+    width: 40%;
+}
+.dash_info p {
+    font-size: 13px;
+    line-height: 19px;
+    }
+
+
+
+    #product-image{
+        height: 201px;
+    }
+
+.product_price del, .product_price .price {
+    font-size: 18px;
+}
+.pro-descriptipn .pro-heading h1 {
+    font-size: 19px;
+    line-height: 23px;
+}
+.cart-details .product-title a {
+    font-size: 15px;
+}
+.save_coniBx_left , .save_coniBx_right{
+    width: 100%;
+    }
+.save_coniBx {
+    display: inherit;
+}
+.cartbtn {
+    font-size: 15px;
+    height: 39px;
+    padding: 0 10px;
+    margin-left: 1px;
+}
+
+
+.blog-details .videos-blog-img > img {
+    height: 216px;
+}
+.cayegoies_uls li{
+    width: calc(100% - 00px);
+    margin: 15px 0px;
+}
+
+}
